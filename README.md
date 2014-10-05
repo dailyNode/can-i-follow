@@ -8,3 +8,5 @@ named like caniuse, choose some good noder to follow
 * [cowboy](https://github.com/cowboy)
 * [caolan](http://caolanmcmahon.com/)
 * [isaacs](https://github.com/isaacs)
+* [mikeal](https://github.com/mikeal)
+
