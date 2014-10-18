@@ -10,4 +10,5 @@ named like caniuse, choose some good noder to follow
 * [caolan](http://caolanmcmahon.com/)
 * [isaacs](https://github.com/isaacs)
 * [mikeal](https://github.com/mikeal)
+* [paulirish](https://github.com/paulirish)
 
