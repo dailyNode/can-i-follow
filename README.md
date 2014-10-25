@@ -11,4 +11,5 @@ named like caniuse, choose some good noder to follow
 * [isaacs](https://github.com/isaacs)
 * [mikeal](https://github.com/mikeal)
 * [paulirish](https://github.com/paulirish)
+* [ljharb](https://github.com/ljharb)
 
