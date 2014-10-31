@@ -14,4 +14,5 @@ named like caniuse, choose some good noder to follow
 * [jonathanong](https://github.com/jonathanong)
 * [ljharb](https://github.com/ljharb)
 * [phated](https://github.com/phated)
+* [hparra](https://github.com/hparra)
 
